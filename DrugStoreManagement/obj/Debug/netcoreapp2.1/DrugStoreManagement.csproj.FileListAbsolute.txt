@@ -1,0 +1,82 @@
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.deps.json
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.runtimeconfig.json
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.runtimeconfig.dev.json
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.dll
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.RazorAssemblyInfo.cache
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.RazorAssemblyInfo.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.AssemblyInfoInputs.cache
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.AssemblyInfo.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.TagHelpers.input.cache
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.TagHelpers.output.cache
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.RazorCoreGenerate.cache
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.RazorTargetAssemblyInfo.cache
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.RazorTargetAssemblyInfo.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.pdb
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.Views.dll
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.Views.pdb
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.csprojAssemblyReference.cache
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.Views.pdb
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.dll
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.pdb
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.csproj.CopyComplete
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Drugs\Create.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Drugs\Delete.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Drugs\Details.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Drugs\Edit.g.cshtml.cs
+C:\Users\radheshyam\Desktop\harman\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Drugs\Index.g.cshtml.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.deps.json
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.runtimeconfig.json
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.runtimeconfig.dev.json
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.dll
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.pdb
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.Views.dll
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\bin\Debug\netcoreapp2.1\DrugStoreManagement.Views.pdb
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.csprojAssemblyReference.cache
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.RazorAssemblyInfo.cache
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.RazorAssemblyInfo.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.AssemblyInfoInputs.cache
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.AssemblyInfo.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.TagHelpers.input.cache
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.TagHelpers.output.cache
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.RazorCoreGenerate.cache
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Drugs\Create.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Drugs\Delete.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Drugs\Details.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Drugs\Edit.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Drugs\Index.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.RazorTargetAssemblyInfo.cs
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.Views.pdb
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.dll
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.pdb
+C:\Users\Komal JAWANDHA\Desktop\DrugStore\DrugStoreManagement\DrugStoreManagement\obj\Debug\netcoreapp2.1\DrugStoreManagement.csproj.CopyComplete
